@@ -1,6 +1,6 @@
 <?php 
 
-echo"hellow word";
+echo"ola mundo";
 
 
 
